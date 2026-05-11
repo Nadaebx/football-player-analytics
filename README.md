@@ -1,5 +1,7 @@
 # Football Player Analytics: Data Mining Project
 
+**GitHub Repository:** [https://github.com/Nadaebx/football-player-analytics](https://github.com/Nadaebx/football-player-analytics)
+
 ## Team Members
 - [Nada Gamal]
 - [Abdullah Mohamed]
